@@ -1,4 +1,4 @@
-package com.yi.docker.dockerdemo;
+package com.yi.docker.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

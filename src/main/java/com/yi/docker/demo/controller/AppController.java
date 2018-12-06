@@ -1,4 +1,4 @@
-package com.yi.docker.dockerdemo.controller;
+package com.yi.docker.demo.controller;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,4 +1,4 @@
-package com.yi.docker.dockerdemo;
+package com.yi.docker.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
