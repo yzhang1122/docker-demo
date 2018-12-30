@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 @Slf4j
 @RestController
 public class AppController {
+
   @RequestMapping("/")
   public String home() {
     return "Hello Docker World";
